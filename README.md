@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/YAEOEMt' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamphNzI1M3FmcmcxM25kYWxvZnMxY2ZsdXk4ODgzZzlxd3l1dTA1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/igu0VtkvU7Cuxlb9f4/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Video created with macOS screen capture
 
