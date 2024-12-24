@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='./assets/demo_video.mov' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/YAEOEMt' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Video created with macOS screen capture
 
