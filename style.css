@@ -17,10 +17,17 @@ body {
     margin-left: -10px;
     margin-right: -10px;
     margin-top: -10px;
+    justify-content: space-between;
 }
 
 .stats-container {
     display: flex;
+    align-items: center;
+}
+
+.stats-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
@@ -66,6 +73,21 @@ body {
     text-align: center;
 }
 
+#unfunded-btn:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
+}
+
+#funded-btn:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
+}
+
+#all-btn:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
+}
+
 button {
     font-family: 'Cabin';
     border: none;
@@ -73,3 +95,40 @@ button {
     margin: 1%;
     border-radius: 7px;
 }
+
+#header-container {
+    text-align: center;
+}
+
+.centered {
+    text-align: center;
+}
+
+#search-container {
+    margin: 20px 0;
+    text-align: center;
+  }
+  
+  #search-bar {
+    width: 60%;
+    padding: 10px;
+    font-size: 16px;
+    margin-right: 10px;
+    border-radius: 5px;
+  }
+
+  #search-btn:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px blue;
+  }
+
+  #search-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
